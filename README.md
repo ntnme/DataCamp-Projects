@@ -12,14 +12,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | |
 |  |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-|    |
-|   |
-|    |
-|    |
-|    |
-|    |
-|    |
-|  |
+
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
 | `Dr. Semmelweis and the discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
