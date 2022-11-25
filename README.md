@@ -38,9 +38,5 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Predict Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
 | `Predicting Credit Card Approvals` | Build a machine learning model to predict if a credit card application will get approved. |
 | `Real-time Insights from Social Media Data` | Learn to analyze Twitter data and do a deep dive into a hot trend. |
-| `Recreating John Snow's Ghost Map` | Recreate John Snow's famous map of the 1854 cholera outbreak in London. |
-| `Reducing Traffic Mortality in the USA` | How can we find a good strategy for reducing traffic-related deaths? |
-| `Risk and Returns: The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
-| `Streamlining Employee Data` | Use DataFrames to read and merge employee data from different sources. |
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
 
