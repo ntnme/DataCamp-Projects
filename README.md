@@ -13,15 +13,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 |  |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 ||
-| `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
-| `Dr. Semmelweis and the discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
-| `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
-| `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
-| `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
-| `Exploring the NYC Airbnb Market` | Apply data importing and cleaning skills to extract insights about the New York City Airbnb market. |
-| `Find Movie Similarity from Plot Summaries` | Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity. |
-| `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
-| `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
+
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `Mobile Games A/B Testing with Cookie Cats` | Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. |
