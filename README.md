@@ -30,7 +30,6 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 | `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
-
 | `Real-time Insights from Social Media Data` | Learn to analyze Twitter data and do a deep dive into a hot trend. |
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
 
