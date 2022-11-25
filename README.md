@@ -9,7 +9,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 ## Python
 | Project | Description |
 | --- | --- |
-
+| |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. |
