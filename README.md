@@ -9,8 +9,6 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/kouki) projects.
 ## Python
 | Project | Description |
 | --- | --- |
-| `A Network analysis of Game of Thrones` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
-| `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `Real-time Insights from Social Media Data` | Learn to analyze Twitter data and do a deep dive into a hot trend. |
