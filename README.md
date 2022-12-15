@@ -12,4 +12,5 @@
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `Real-time Insights from Social Media Data` | Learn to analyze Twitter data and do a deep dive into a hot trend. |
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
-
+| `Analyze Your Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
+| `Generating Keywords for Google AdWords` | Automatically generate keywords for a search engine marketing campaign using Python. |
